@@ -1,0 +1,10 @@
+NOTICE
+======
+This project left bitbucket and can now be found on
+[https://github.com/pixelastic/sql-french-cities](Github)
+
+What is it ?
+------------
+
+This a SQL dump of the whole list of french cities with the région they belong
+to, in a sister table.
