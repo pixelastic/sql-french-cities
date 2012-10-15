@@ -1,9 +1,5 @@
 /*
 MySQL Data Transfer
-Source Host: localhost
-Source Database: bombr
-Target Host: localhost
-Target Database: bombr
 Date: 03/01/2011 20:41:17
 */
 
@@ -17,7 +13,7 @@ CREATE TABLE `regions` (
   `name` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
   `insee_id` varchar(5) COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=27 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- ----------------------------
 -- Records 
